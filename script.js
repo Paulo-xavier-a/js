@@ -1,1 +1,0 @@
-let numberOne= prompt("Digite o numero")

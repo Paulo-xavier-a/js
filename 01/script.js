@@ -1,0 +1,5 @@
+alert("Iremos somar 2 numeros")
+let numberOne= prompt("Digite o numero")
+let numberTwo= prompt("Digite outro numero") 
+let result = Number(numberOne) + Number(numberTwo)
+alert( "Resultado: " + result )
